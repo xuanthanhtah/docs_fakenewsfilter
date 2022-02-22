@@ -30,21 +30,21 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic1.png" width="200" height="400" />
 + Giao diện khi khởi động ứng dụng.
-</br>
+___
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic2.png" width="200" height="400" />
 + Giao diện đăng nhập
     - Người dùng có thể đăng nhập bằng tài khoản đã đăng ký, tài khoản facebook và google.
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic3.png" width="200" height="400" />
 + Giao diện đổi ngôn ngữ (ngôn ngữ ứng dụng, ngôn ngữ đọc tin tức).
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic4.png" width="200" height="400" />
 + Giao diện các chủ đề
     - Người dùng có thể thấy được các chủ đề theo ngôn ngữ mà họ đã chọn, khi bấm nút “Khám phá” thì vào trang đăng nhập.
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic5.png" width="200" height="400" />
 + Giao diện đọc trước tin tức khi chưa đăng nhập.
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic6.png" width="200" height="400" />
 + Giao diện theo dõi chủ đề
     - Người dùng bắt buộc phải chọn ít nhất 4 chủ đề để có thể đăng nhập và đọc tin tức.
@@ -52,24 +52,24 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic7.png" width="200" height="400" />
 + Giao diện trang chủ
     - Khi đăng nhập xong người dùng có thể đọc tin và bình chọn tin tức đó có đáng tin cậy hay không.
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic8.png" width="200" height="400" />
-+ Giao diện câu chuyện ( gần giống như story trên faceboo, instagram).
-</br>
++ Giao diện câu chuyện ( gần giống như story trên facebook, instagram).
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic9.png" width="200" height="400" />
 + Giao diện đọc tin tức
     - Người dùng có thể đọc, chọn độ tin cậy của tin tức, chia sẻ tin,…
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic10.png" width="200" height="400" />
 + Giao diện tìm kiếm.
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic11.png" width="200" height="400" />
 + Giao diện tin tức đã được phân loại.
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic12.png" width="200" height="400" />
 + Giao diện đóng góp tin tức.
-</br>
+
 <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic13.png" width="200" height="400" />
 + Giao diện cài đặt, trang cá nhân.
-</br>
+
 ### thanks for reading. :)

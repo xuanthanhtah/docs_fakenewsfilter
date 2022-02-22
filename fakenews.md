@@ -31,45 +31,45 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 ![](media/pic1.png)
 + Giao diện khi khởi động ứng dụng.
 
-![](media/pic2.png)
+![](media/pic2.png | width=100px)
 + Giao diện đăng nhập
     - Người dùng có thể đăng nhập bằng tài khoản đã đăng ký, tài khoản facebook và google.
 
-![](media/pic3.png)
+![](media/pic3.png | width=100px)
 + Giao diện đổi ngôn ngữ (ngôn ngữ ứng dụng, ngôn ngữ đọc tin tức).
 
-![](media/pic4.png)
+![](media/pic4.png | width=100px)
 + Giao diện các chủ đề
     - Người dùng có thể thấy được các chủ đề theo ngôn ngữ mà họ đã chọn, khi bấm nút “Khám phá” thì vào trang đăng nhập.
 
-![](media/pic5.png)
+![](media/pic5.png | width=100px)
 + Giao diện đọc trước tin tức khi chưa đăng nhập.
 
-![](media/pic6.png)
+![](media/pic6.png | width=100px)
 + Giao diện theo dõi chủ đề
     - Người dùng bắt buộc phải chọn ít nhất 4 chủ đề để có thể đăng nhập và đọc tin tức.
 
-![](media/pic7.png)
+![](media/pic7.png | width=100px)
 + Giao diện trang chủ
     - Khi đăng nhập xong người dùng có thể đọc tin và bình chọn tin tức đó có đáng tin cậy hay không.
 
-![](media/pic8.png)
+![](media/pic8.png | width=100px)
 + Giao diện câu chuyện ( gần giống như story trên faceboo, instagram).
 
-![](media/pic9.png)
+![](media/pic9.png | width=100px)
 + Giao diện đọc tin tức
     - Người dùng có thể đọc, chọn độ tin cậy của tin tức, chia sẻ tin,…
 
-![](media/pic10.png)
+![](media/pic10.png | width=100px)
 + Giao diện tìm kiếm.
 
-![](media/pic11.png)
+![](media/pic11.png | width=100px)
 + Giao diện tin tức đã được phân loại.
 
-![](media/pic12.png)
+![](media/pic12.png | width=100px)
 + Giao diện đóng góp tin tức.
 
-![](media/pic13.png)
+![](media/pic13.png | width=100px)
 + Giao diện cài đặt, trang cá nhân.
 
 ### thanks for reading. :)

@@ -28,7 +28,7 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 
 ## Hướng dẫn sử dụng
 
-<img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic1.png" width="200" height="400" />
+<img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic1.png" width="200" height="400" align="center" />
 + Giao diện khi khởi động ứng dụng.
 
 ___

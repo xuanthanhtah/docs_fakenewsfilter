@@ -1,11 +1,11 @@
 # Fakenews 
 ## Giới thiệu về Fake news.
 ```
-Fakenews được chúng tôi xây dựng nhằm giúp người đọc có thể tiếp cận
++ Fakenews được chúng tôi xây dựng nhằm giúp người đọc có thể tiếp cận
 những nguồn thông tin chính xác và đã xác thực từ các nguồn chính thống
 cũng như giúp người đọc có thể tránh xa khỏi những tin giả gây ảnh hưởng xấu tới xã hội.
 
-Fakenews sửa dụng công nghệ Flutter để xây dựng app đa nền tảng vừa có thể sử dụng trên Android và IOS
++ Fakenews sửa dụng công nghệ Flutter để xây dựng app đa nền tảng vừa có thể sử dụng trên Android và IOS
 một cách linh hoạt và dễ dàng. Về phần database chúng tôi sử dụng Entity framework và SQL server để xây dựng hệ thống database.
 Phần sử lý thông tin chúng tôi sử dụng ASP .net core 6 và mô hình MVC.
 Chúng tôi cũng có xây dựng một trang web admin để admin có thể quản lý những thông tin trên đó.

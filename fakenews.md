@@ -43,7 +43,9 @@ ___
 <p align="center">
     
    + Người dùng có thể đăng nhập bằng tài khoản đã đăng ký, tài khoản facebook và google.
-    
+        - Khi đăng nhập lần đầu, người phải đăng ký thông tin, thông tin sẽ được lưu lại.
+        - Khi đăng nhập bằng tài khoản google, facebook mà trước đó đã có tài khoản sẽ không cần nhập thông tin lại.
+        - Khi thoát ứng dụng ra màn hình chính sẽ duy trì đăng nhập, không cần đăng nhập lại.
 </p>
 
 ___
@@ -53,6 +55,7 @@ ___
 <p align="center">
     
    + Giao diện đổi ngôn ngữ (ngôn ngữ ứng dụng, ngôn ngữ đọc tin tức).
+        - Có thể tùy chỉnh ngôn ngữ hệ thống và ngôn ngữ tin tức(tiếng anh, tiếng việt).
 </p>
 
 ___
@@ -64,6 +67,7 @@ ___
    + Giao diện các chủ đề.
     
         - Người dùng có thể thấy được các chủ đề theo ngôn ngữ mà họ đã chọn, khi bấm nút “Khám phá” thì vào trang đăng nhập.
+        - Lần đầu tiên đăng nhập, người dùng phải chọn ít nhất 4 chủ đề khác nhau.
 </p>
 
 ___
@@ -73,6 +77,7 @@ ___
 <p align="center">
     
    + Giao diện đọc trước tin tức khi chưa đăng nhập.
+        - Người dùng có thể xem các tin tức mới nhất của hệ thống.
 </p>
 
 ___
@@ -81,7 +86,7 @@ ___
 </p>
 <p align="center">
     
-   + Người dùng bắt buộc phải chọn ít nhất 4 chủ đề để có thể đăng nhập và đọc tin tức.
+   + Khi đăng nhập người dùng bắt buộc phải chọn ít nhất 4 chủ đề để có thể đăng nhập và đọc tin tức.
 </p>
 
 ___
@@ -102,6 +107,7 @@ ___
 <p align="center">
     
    + Giao diện câu chuyện ( gần giống như story trên facebook, instagram).
+        - có thể xem Story của các tin tức nhanh trong 24h.
 </p>
 
 ___
@@ -122,6 +128,7 @@ ___
 <p align="center">
     
    + Giao diện tìm kiếm.
+        - Người dùng có thể tìm kiếm theo tên tin tức, nội dung tin tức, desc.
 </p>
 
 ___
@@ -131,6 +138,7 @@ ___
 <p align="center">
     
    + Giao diện tin tức đã được phân loại.
+        - Các tin tức đã được kiểm duyệt sẽ được hiển thị ở đây.
 </p>
 
 ___
@@ -140,6 +148,7 @@ ___
 <p align="center">
     
    + Giao diện đóng góp tin tức.
+        - Người dùng có thể đóng góp tin tức lên hệ thống, admin sẽ kiểm duyệt và đăng lên hệ thống nếu tin tức hợp lý.
 </p>
 
 ___
@@ -149,6 +158,7 @@ ___
 <p align="center">
     
    + Giao diện cài đặt, trang cá nhân.
+        - Chỉnh sửa thông tin cá nhân của người dùng ở đây.
 </p>
 
 ___

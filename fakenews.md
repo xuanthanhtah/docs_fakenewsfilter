@@ -42,7 +42,7 @@ ___
 </p>
 <p align="center">
     
-    + Người dùng có thể đăng nhập bằng tài khoản đã đăng ký, tài khoản facebook và google.
+   + Người dùng có thể đăng nhập bằng tài khoản đã đăng ký, tài khoản facebook và google.
     
 </p>
 

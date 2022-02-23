@@ -31,7 +31,7 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic1.png" width="200" height="400" />
 </p>
 <p align="center">
-    + Giao diện khi khởi động ứng dụng.
++ Giao diện khi khởi động ứng dụng.
 </p>
 
 ___
@@ -39,7 +39,7 @@ ___
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic2.png" width="200" height="400" />
 </p>
 <p align="center">
-    + Người dùng có thể đăng nhập bằng tài khoản đã đăng ký, tài khoản facebook và google.
++ Người dùng có thể đăng nhập bằng tài khoản đã đăng ký, tài khoản facebook và google.
 </p>
 
 ___

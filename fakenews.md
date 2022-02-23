@@ -33,6 +33,7 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 <p align="center">
     
     + Giao diện khi khởi động ứng dụng.
+        - Giao diện chờ khi vào ứng dụng.
 </p>
 
 ___

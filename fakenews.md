@@ -72,7 +72,7 @@ ___
 </p>
 <p align="center">
     
-    + Giao diện đọc trước tin tức khi chưa đăng nhập.
+   + Giao diện đọc trước tin tức khi chưa đăng nhập.
 </p>
 
 ___

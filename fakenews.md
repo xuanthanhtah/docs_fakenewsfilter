@@ -34,7 +34,8 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
     
     + Giao diện khi khởi động ứng dụng.
     
-        - Giao diện chờ khi vào ứng dụng.
+         - Giao diện chờ khi vào ứng dụng.
+    
 </p>
 
 ___
@@ -61,7 +62,7 @@ ___
 </p>
 <p align="center">
     
-   + Giao diện các chủ đề
+   + Giao diện các chủ đề.
     
         - Người dùng có thể thấy được các chủ đề theo ngôn ngữ mà họ đã chọn, khi bấm nút “Khám phá” thì vào trang đăng nhập.
 </p>

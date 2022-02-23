@@ -92,7 +92,7 @@ ___
     
    + Giao diện trang chủ
     
-    - Khi đăng nhập xong người dùng có thể đọc tin và bình chọn tin tức đó có đáng tin cậy hay không.
+        - Khi đăng nhập xong người dùng có thể đọc tin và bình chọn tin tức đó có đáng tin cậy hay không.
 </p>
 
 ___
@@ -112,7 +112,7 @@ ___
     
    + Giao diện đọc tin tức
     
-    - Người dùng có thể đọc, chọn độ tin cậy của tin tức, chia sẻ tin,…
+        - Người dùng có thể đọc, chọn độ tin cậy của tin tức, chia sẻ tin,…
 </p>
 
 ___

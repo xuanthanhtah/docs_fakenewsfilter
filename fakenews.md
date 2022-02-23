@@ -31,13 +31,7 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic1.png" width="200" height="400" />
 </p>
 <p align="center">
-+ Giao diện khi khởi động ứng dụng.
-    + Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
+* Giao diện khi khởi động ứng dụng.
 </p>
 
 ___

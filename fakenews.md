@@ -1,4 +1,8 @@
 # Fakenews 
+
+# Nội dung chính:
+* [Giới thiệu về Fake news](#Giới-thiệu-về-Fake-news)
+* [Công nghệ sử dụng](#Công-nghệ-sử-dụng)
 ## Giới thiệu về Fake news.
 ```
 + Fakenews được chúng tôi xây dựng nhằm giúp người đọc có thể tiếp cận
@@ -33,6 +37,7 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 <p align="center">
     
    + Giao diện khi khởi động ứng dụng.
+        - Khi đăng nhập vào sẽ thấy icon của hệ thống và xin chào.
 
 </p>
 
@@ -46,6 +51,8 @@ ___
         - Khi đăng nhập lần đầu, người phải đăng ký thông tin, thông tin sẽ được lưu lại.
         - Khi đăng nhập bằng tài khoản google, facebook mà trước đó đã có tài khoản sẽ không cần nhập thông tin lại.
         - Khi thoát ứng dụng ra màn hình chính sẽ duy trì đăng nhập, không cần đăng nhập lại.
+        - Có thể tùy chỉnh ngôn ngữ hệ thống và ngôn ngữ tin tức ở phía trên bên phải.
+        - Chọn đồng ý điều khoản dịch vụ để sử dụng ứng dụng.
 </p>
 
 ___
@@ -56,6 +63,7 @@ ___
     
    + Giao diện đổi ngôn ngữ (ngôn ngữ ứng dụng, ngôn ngữ đọc tin tức).
         - Có thể tùy chỉnh ngôn ngữ hệ thống và ngôn ngữ tin tức(tiếng anh, tiếng việt).
+        - Mặc định của hệ thống là tiếng anh.
 </p>
 
 ___
@@ -65,9 +73,10 @@ ___
 <p align="center">
     
    + Giao diện các chủ đề.
-    
+        - Có nhiều chủ đề cho người dùng chọn, có thể chọn nhiều chủ đề.
         - Người dùng có thể thấy được các chủ đề theo ngôn ngữ mà họ đã chọn, khi bấm nút “Khám phá” thì vào trang đăng nhập.
         - Lần đầu tiên đăng nhập, người dùng phải chọn ít nhất 4 chủ đề khác nhau.
+        - Người dùng cũng có thể tùy chỉnh ngôn ngữ hệ thống ở đây.
 </p>
 
 ___
@@ -78,6 +87,7 @@ ___
     
    + Giao diện đọc trước tin tức khi chưa đăng nhập.
         - Người dùng có thể xem các tin tức mới nhất của hệ thống.
+        - Các tin tức người dùng xem khi chưa đăng nhập là các tin mới và hot nhất trong ngày của nhiều chủ đề khác nhau.
 </p>
 
 ___
@@ -98,6 +108,8 @@ ___
    + Giao diện trang chủ
     
         - Khi đăng nhập xong người dùng có thể đọc tin và bình chọn tin tức đó có đáng tin cậy hay không.
+        - Người dùng có thể theo dõi các chủ đề yêu thích và xem các story của các tin tức ở đây.
+        - Người dùng có thể xem các thông báo ở chuông phía trên bên phải trang chủ.
 </p>
 
 ___
@@ -119,6 +131,7 @@ ___
    + Giao diện đọc tin tức
     
         - Người dùng có thể đọc, chọn độ tin cậy của tin tức, chia sẻ tin,…
+        - Người dùng có thể bình luận trao đổi với nhau về tin tức đó.
 </p>
 
 ___
@@ -129,6 +142,7 @@ ___
     
    + Giao diện tìm kiếm.
         - Người dùng có thể tìm kiếm theo tên tin tức, nội dung tin tức, desc.
+        
 </p>
 
 ___
@@ -139,6 +153,9 @@ ___
     
    + Giao diện tin tức đã được phân loại.
         - Các tin tức đã được kiểm duyệt sẽ được hiển thị ở đây.
+        - Các tin tức được xác nhận là chính xác sẽ hiện bên ô Tin Thật.
+        - Các tin tức được xác nhận là sai sự thật sẽ hiện bên ô Tin Giả.
+        - Mọi Người có thể đọc thông báo ở đây bằng cách chọn chuông ở gói phải phía trên trang.
 </p>
 
 ___
@@ -149,6 +166,9 @@ ___
     
    + Giao diện đóng góp tin tức.
         - Người dùng có thể đóng góp tin tức lên hệ thống, admin sẽ kiểm duyệt và đăng lên hệ thống nếu tin tức hợp lý.
+        - Người dùng có thể tìm các tin tức mà người dùng khác đóng góp ở đây.
+        - Ở đây sẽ hiện thông tin số bài viết đã đóng góp của người dùng.
+        - Người dùng có thể xem hướng dẫn chi tiết ở ô xem hướng dẫn.
 </p>
 
 ___
@@ -159,6 +179,12 @@ ___
     
    + Giao diện cài đặt, trang cá nhân.
         - Chỉnh sửa thông tin cá nhân của người dùng ở đây.
+        - Người dùng có thể tùy chỉnh ngôn ngữ hệ thống và ngôn ngữ tin tức ở đây.
+        - Người dùng có thể thay đổi các chủ đề đã theo dõi.
+        - Người dùng có thể kết nối các mạng xã hội khác với tài khoản cá nhân.
+        - Người dùng có thể xem các thông tin khác về FNF.
+        - Người dùng có thể đánh giá chất lượng ứng dụng.
+        - Người dùng nếu gặp khó khăn khi sử dụng hệ thống thì có thể sử dụng tính năng giúp đỡ của hệ thống.
 </p>
 
 ___

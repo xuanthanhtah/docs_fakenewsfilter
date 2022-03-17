@@ -1,8 +1,9 @@
-# Fakenews 
+# FAKE NEWS FILTER
 
 # Nội dung chính:
 * [Giới thiệu về Fake news](#Giới-thiệu-về-Fake-news)
 * [Công nghệ sử dụng](#Công-nghệ-sử-dụng)
+* [Hướng dẫn sử dụng](#Hướng-dẫn-sử-dụng)
 ## Giới thiệu về Fake news.
 ```
 + Fakenews được chúng tôi xây dựng nhằm giúp người đọc có thể tiếp cận

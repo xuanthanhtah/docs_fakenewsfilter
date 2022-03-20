@@ -33,6 +33,7 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 ```
 
 ## Hướng dẫn sử dụng
+### Giao diện khởi động ứng dụng
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic1.png" width="200" height="400" />
 </p>
@@ -44,6 +45,7 @@ Hiện tại ứng dụng đã được deploy lên windows server 2019 và sắ
 </p>
 
 ___
+### Giao diện đăng nhập
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic2.png" width="200" height="400" />
 </p>
@@ -58,6 +60,7 @@ ___
 </p>
 
 ___
+### Giao diện đổi ngôn ngữ
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic3.png" width="200" height="400" />
 </p>
@@ -69,6 +72,7 @@ ___
 </p>
 
 ___
+### Giao diện chủ đề
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic4.png" width="200" height="400" />
 </p>
@@ -82,6 +86,7 @@ ___
 </p>
 
 ___
+### Giao diện đọc tin tức khi chưa đăng nhập
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic5.png" width="200" height="400" />
 </p>
@@ -93,6 +98,7 @@ ___
 </p>
 
 ___
+### Giao diện chọn chủ đề
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic6.png" width="200" height="400" />
 </p>
@@ -102,12 +108,13 @@ ___
 </p>
 
 ___
+### Giao diện trang chủ đọc tin tức
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic7.png" width="200" height="400" />
 </p>
 <p align="center">
     
-   + Giao diện trang chủ
+   + Giao diện trang chủ đọc tin tức
     
         - Khi đăng nhập xong người dùng có thể đọc tin và bình chọn tin tức đó có đáng tin cậy hay không.
         - Người dùng có thể theo dõi các chủ đề yêu thích và xem các story của các tin tức ở đây.
@@ -115,6 +122,7 @@ ___
 </p>
 
 ___
+### Giao diện Story
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic8.png" width="200" height="400" />
 </p>
@@ -125,6 +133,7 @@ ___
 </p>
 
 ___
+### Giao diện đọc tin tức
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic9.png" width="200" height="400" />
 </p>
@@ -137,6 +146,7 @@ ___
 </p>
 
 ___
+### Giao diện tìm kiếm
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic10.png" width="200" height="400" />
 </p>
@@ -148,6 +158,7 @@ ___
 </p>
 
 ___
+### Giao diện tin tức đã được phân loại
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic11.png" width="200" height="400" />
 </p>
@@ -161,6 +172,7 @@ ___
 </p>
 
 ___
+### Giao diện đóng góp tin tức
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic12.png" width="200" height="400" />
 </p>
@@ -174,6 +186,7 @@ ___
 </p>
 
 ___
+### Giao diện cài đặt, trang cá nhân
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic13.png" width="200" height="400" />
 </p>

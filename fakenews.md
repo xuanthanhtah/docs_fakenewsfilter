@@ -4,7 +4,19 @@
 * [Giới thiệu về Fake news](#Giới-thiệu-về-Fake-news)
 * [Công nghệ sử dụng](#Công-nghệ-sử-dụng)
 * [Hướng dẫn sử dụng](#Hướng-dẫn-sử-dụng)
-    * [Hướng dẫn sử dụng](#Hướng-dẫn-sử-dụng)
+    * [Giao diện khởi động ứng dụng](#Giao-diện-khởi-động-ứng-dụng)
+    * [Giao diện đăng nhập](#Giao-diện-đăng-nhập)
+    * [Giao diện đổi ngôn ngữ](#Giao-diện-đổi-ngôn-ngữ)
+    * [Giao diện chủ đề](#Giao-diện-chủ-đề)
+    * [Giao diện đọc tin tức khi chưa đăng nhập](#Giao-diện-đọc-tin-khi-chưa-đăng-nhập)
+    * [Giao diện chọn chủ đề](#Giao-diện-chọn-chủ-đề)
+    * [Giao diện trang chủ đọc tin tức](#Giao-diện-trang-chủ-đọc-tin-tức)
+    * [Giao diện Story](#Giao-diện-Story)
+    * [Giao diện đọc tin tức](#Giao-diện-đọc-tin-tức)
+    * [Giao diện tìm kiếm](#Giao-diện-tìm-kiếm)
+    * [Giao diện tin tức đã được phân loại](#Giao-diện-tin-tức-đã-được-phân-loại)
+    * [Giao diện đóng góp tin tức](#Giao-diện-đóng-góp-tin-tức)
+    * [Giao diện cài đặt, trang cá nhân](#Giao-diện-cài-đặt,-trang-cá-nhân)
 ## Giới thiệu về Fake news.
 ```
 + Fakenews được chúng tôi xây dựng nhằm giúp người đọc có thể tiếp cận

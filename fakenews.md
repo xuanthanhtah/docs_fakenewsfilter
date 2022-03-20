@@ -16,7 +16,7 @@
     * [Giao diện tìm kiếm](#Giao-diện-tìm-kiếm)
     * [Giao diện tin tức đã được phân loại](#Giao-diện-tin-tức-đã-được-phân-loại)
     * [Giao diện đóng góp tin tức](#Giao-diện-đóng-góp-tin-tức)
-    * [Giao diện cài đặt, trang cá nhân](#Giao-diện-cài-đặt,-trang-cá-nhân)
+    * [Giao diện cài đặt và trang cá nhân](#Giao-diện-cài-đặt-và-trang-cá-nhân)
 ## Giới thiệu về Fake news.
 ```
 + Fakenews được chúng tôi xây dựng nhằm giúp người đọc có thể tiếp cận
@@ -198,7 +198,7 @@ ___
 </p>
 
 ___
-### Giao diện cài đặt, trang cá nhân
+### Giao diện cài đặt và trang cá nhân
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic13.png" width="200" height="400" />
 </p>

@@ -11,7 +11,7 @@
     * [Interface to read news when not logged in](#Interface-to-read-news-when-not-logged-in)
     * [Theme selection interface](#Theme-selection-interface)
     * [Home page interface to read news](#Home-page-interface-to-read-news)
-    * [story interface](#story-interface)
+    * [Story interface](#Story-interface)
     * [News reading interface](#News-reading-interface)
     * [Search interface](#Search-interface)
     * [Categorized news interface](#Categorized-news-interface)
@@ -134,7 +134,7 @@ ___
 </p>
 
 ___
-### story interface
+### Story interface
 <p align="center">
   <img src="https://github.com/xuanthanh2609/docs_fakenewsfilter/blob/main/media/pic8.png" width="200" height="400" />
 </p>
